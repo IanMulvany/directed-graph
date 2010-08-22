@@ -1,4 +1,9 @@
-markdown: rdiscount
+markdown: maruku
 pygments: true
 permalink: /:year/:month/:day/:title	
-#lsi: true
+lsi: false
+maruku:
+    use_tex: false
+    use_divs: false
+    png_dir: images/latex
+    png_url: /images/latex
