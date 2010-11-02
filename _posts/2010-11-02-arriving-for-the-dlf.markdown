@@ -1,5 +1,5 @@
 yout: post
-title: Arriving in Pauo Alto for the DLF fall forum
+title: Arriving in Paulo Alto for the DLF fall forum
 categories:
 - dlf2010
 ---
