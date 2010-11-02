@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: Arriving in Paulo Alto for the DLF fall forum
 categories:
 - dlf2010
