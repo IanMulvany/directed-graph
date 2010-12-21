@@ -9,6 +9,11 @@ categories:
 - graph theory
 ---
 
+<h2><font face="Impact" color="Red">CANCELLED</font></h2>
+
+
+<font face="Impact" color="Red">Due to flight cancellations out of NY, Chris won't be making it over to this side of the pond, so sadly we will be calling the event off.</font>
+
 London is a great city to live in if you are interested in technology. It has to be one of the best cities in the world for people working on the interface between science, tech and te web.  Tonight I'll be going to the awesome [Same As Christmass Quiz][saq], and tomorrow night [Chris Wiggins][chp] will be passing through from New York, and there will be a chance to meet up with him for a pint and a chat.
 
 Chris and I met a couple of years ago while I was still working at Spriner. I was visiting my old haunt at Columbia University, and I dopped in to see my old professor [Ed Spiegel][eas]. Ed told me about Chris, and I dropped in to say hi. Chris has done some [brilliant work][mp] on networks and their application in the biological sciences. He has also helped run some of the [New York Nature Network][nnp] events, and earlier this year he ran a [hack day for students][tca] in New York.
