@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drinks with Chris Wiggins.
+title: Cancelled :( Drinks with Chris Wiggins.
 categories:
 - data
 - geek
