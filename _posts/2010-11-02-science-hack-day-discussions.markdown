@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sand Francisco, and science hack day discussions
+title: San Francisco, and science hack day discussions
 categories:
 - science hack day
 - dlf2010
